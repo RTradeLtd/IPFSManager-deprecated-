@@ -1,0 +1,1 @@
+move IPFS.lnk %AppData%\Microsoft\Windows\SendTo\

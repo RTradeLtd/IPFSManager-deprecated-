@@ -1,0 +1,6 @@
+# INSTALL
+1. Move `WindowsIPFSController` to preferred location
+2. Right click on executable
+3. Create shortcut and rename it to IPFS(.lnk)
+4. Click on add_to_send_to.bat
+5. Done!
